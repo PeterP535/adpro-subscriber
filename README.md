@@ -19,3 +19,4 @@ Penjelasan elemen-elemennya:
 
 Jadi, `amqp://guest:guest@localhost:5672` berarti aplikasi akan mencoba terhubung ke RabbitMQ yang berjalan di komputer lokal menggunakan username dan password `guest`, melalui port AMQP standar yaitu `5672`.
 
+![RabbitMQ slow simulation](https://media.discordapp.net/attachments/916932753897967666/1372904644568678431/image.png?ex=68287896&is=68272716&hm=967261737d40e9dcebb2d70c3ecf64b51e50ac11b85f0866b9d8b8fda858d3a0&=&format=webp&quality=lossless&width=1744&height=856)
